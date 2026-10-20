@@ -1,23 +1,30 @@
-# Hi, saya Shalini Ragunathan 👋
+# Hello, there! I'm Shalini Ragunathan ✨
 
-## 👩‍💻 Mengenai Saya
-Saya baru sahaja memulakan perjalanan dalam dunia pengaturcaraan dan GitHub! 
-
-- 🔭 **Saya sedang belajar:** Pembangunan Web / Bahasa Pengaturcaraan (contoh: Python, JavaScript, HTML/CSS).
-- 🌱 **Fokus utama saya:** Mengukuhkan asas sintaks dan kawalan versi (*version control*).
-- 🎯 **Matlamat saya:** Membina projek-projek menarik dan bekerjasama dengan komuniti open-source.
+Welcome to my digital corner on GitHub! I am an aspiring software and data enthusiast diving deep into object-oriented design and modern developer workflows.
 
 ---
 
-## 🛠️ Bahasa & Alat (Skills)
-- **Bahasa:** Java 
-- **Alat:** Git, GitHub
+### 📌 A Quick Glance
+- 📚 **Focus:** Strengthening core programming logic and mastering object-oriented principles in Java.
+- 💻 **Hands-on practice:** Writing modular code, structuring clean classes, and version-controlling daily practice.
+- 🎯 **Current goal:** Turning theoretical computing concepts into well-documented, reproducible repositories.
+- 💬 **Open to:** Code discussions, peer reviews, and beginner-friendly collaboration.
 
 ---
 
-## 📬 Hubungi Saya
-- **LinkedIn:** (https://linkedin.com/in/shalini-ragunathan-887b02375)  
-- **Emel:** (shalini07@graduate.utm.my)
+### 🧰 Toolkit & Technologies
+
+**Languages:**
+`Java`
+
+**Tools & Workflow:**
+`Git` • `GitHub` 
+
+---
+
+### 🤝 Let's Connect
+- **Email:** (shalini07@graduate.utm.my)
+- **LinkedIn:** (https://linkedin.com/in/shalini-ragunathan-887b02375)
 
 ---
 <!--
