@@ -1,5 +1,9 @@
 # Hello, there! I'm Shalini Ragunathan ✨
 
+<p align="center">
+  <img src="./profile.jpeg" width="140" height="140" style="border-radius: 50%; object-fit: cover;" alt="Shalini Ragunathan" />
+</p>
+
 Welcome to my digital corner on GitHub! I am an undergraduate student pursuing **Bachelor in Computer Science (Data Engineering) with Honours**, focused on core programming foundations and data systems.
 ---
 
