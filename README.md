@@ -26,8 +26,8 @@ Welcome to my digital corner on GitHub! I am an undergraduate student pursuing *
 ---
 
 ### 🤝 Let's Connect
-- **Email:** (shalini07@graduate.utm.my)
-- **LinkedIn:** (https://linkedin.com/in/shalini-ragunathan-887b02375)
+- **Email:** shalini07@graduate.utm.my
+- **LinkedIn:** https://linkedin.com/in/shalini-ragunathan-887b02375
 
 ---
 <!--
